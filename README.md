@@ -3,3 +3,4 @@
 
 オリジナルは http://patterns.dataincubator.org/book/ 。
 Creative Commons Attribution 2.0 UK: England & Wales License.
+ここでコピーしたhtmlを閲覧可能。 http://yayamamo.github.io/LinkedDataPatterns/
