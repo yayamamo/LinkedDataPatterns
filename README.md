@@ -4,4 +4,4 @@
 オリジナルは http://patterns.dataincubator.org/book/ 。  
 ( Creative Commons Attribution 2.0 UK: England & Wales License. )
 
-コピーしたhtmlは次のアドレスから閲覧可能。 http://yayamamo.github.io/LinkedDataPatterns/
+コピーしたhtmlは[ここ](http://yayamamo.github.io/LinkedDataPatterns/)から閲覧可能。 
